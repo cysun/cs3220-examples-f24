@@ -17,5 +17,5 @@ content = @`
         </li>
         <li><a href="https://mynotes.cysun.org/files/view/1002677">REST Web API</a></li>
     </ul>
-    <p>The source code is available on <a href="https://github.com/cysun/cs3220-examples">GitHub</a>.</p>
+    <p>The source code is available on <a href="https://github.com/cysun/cs3220-examples-f24">GitHub</a>.</p>
 `)

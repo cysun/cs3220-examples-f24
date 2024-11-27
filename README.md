@@ -1,4 +1,4 @@
-# CS 3220 Example
+# CS 3220 Code Examples (Fall 2024)
 
 This project includes some examples for the following:
 
