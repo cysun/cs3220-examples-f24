@@ -57,7 +57,7 @@ content = @`
                             <input id="firstName" name="firstName" type="text" class="form-control">
                         </div>
                         <div class="mb-3">
-                            <label for="lastName" class="form-label">First Name</label>
+                            <label for="lastName" class="form-label">Last Name</label>
                             <input id="lastName" name="lastName" type="text" class="form-control">
                         </div>
                         <button type="submit" class="btn btn-primary">Find</button>
